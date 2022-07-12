@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T09:49:15.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="80enqgrapId1_g43eIFx" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T09:54:30.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3UkZYtjNGOsJtlEB4sx4" version="18.0.6" type="github">
   <diagram id="bWxWPY4lvkNfk8MPVSgl" name="cxl-demo">
     <mxGraphModel dx="1843" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -698,13 +698,13 @@
           <mxGeometry x="-95.5" y="3730" width="575" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-23" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;strokeColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="-112" y="3023" width="307" height="60" as="geometry" />
+          <mxGeometry x="-112" y="3043" width="307" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-25" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;portal&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-119" y="3013" width="79" height="40" as="geometry" />
+          <mxGeometry x="-119" y="3033" width="79" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-26" value="Presto Cluster管理模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-36" y="3029" width="204" height="45" as="geometry" />
+          <mxGeometry x="-48" y="3049" width="204" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-27" value="Presto 部署模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-50" y="3175" width="204" height="45" as="geometry" />
@@ -769,13 +769,13 @@
           <mxGeometry x="313.5" y="3380" width="114.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-52" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#7FBA42;" vertex="1" parent="1">
-          <mxGeometry x="335" y="2972.5" width="160" height="110" as="geometry" />
+          <mxGeometry x="327" y="3010" width="145" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-53" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="251.5" y="3004.5" width="33" height="97" as="geometry" />
+          <mxGeometry x="250" y="3026" width="24.5" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-54" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="426" y="3090" width="34" height="50" as="geometry" />
+          <mxGeometry x="416.5" y="3094" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-55" value="Spark任务执行&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3DdoubleArrow%3Bdirection%3Dsouth%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Brotation%3D-90%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22253%22%20y%3D%223003%22%20width%3D%2230%22%20height%3D%2297%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="448.25" y="3380" width="114.5" height="45" as="geometry" />
@@ -786,11 +786,26 @@
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-61" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="124" y="3288" width="20" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VOQfH7wvOU8QGOnTNFBW-63" target="VOQfH7wvOU8QGOnTNFBW-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-63" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;create/replace/delete&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="18" y="3270" width="63" height="47" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-64" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;presto&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="20.5" y="3292" width="63" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-67" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-51" y="3107" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-68" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="132" y="3108" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-69" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;/query presto&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2" y="3113.25" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-71" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;deploy/redeploy/destroy&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="19" y="3090.75" width="63" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
