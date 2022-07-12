@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T09:10:44.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lgz_1nZRWaeuZ2HXwCXJ" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T09:27:49.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="44EE4-yvH6aI9tvxQf9z" version="18.0.6" type="github">
   <diagram id="bWxWPY4lvkNfk8MPVSgl" name="cxl-demo">
     <mxGraphModel dx="1843" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -732,6 +732,21 @@
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-40" value="..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="53" y="3430" width="64" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-41" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;strokeColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="274" y="3145" width="312" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-42" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;EOS&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="267" y="3140" width="63" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-43" value="SQL 任务执行" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="332" y="3173" width="218" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-45" value="提交Presto Cluster" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="332" y="3228" width="104" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-46" value="FailedOver提交Thive" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="446" y="3228" width="104" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
