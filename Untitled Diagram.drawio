@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T09:10:16.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0Pd7VRGe5tGXBFGYAtV-" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T09:10:44.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lgz_1nZRWaeuZ2HXwCXJ" version="18.0.6" type="github">
   <diagram id="bWxWPY4lvkNfk8MPVSgl" name="cxl-demo">
     <mxGraphModel dx="1843" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -698,19 +698,19 @@
           <mxGeometry x="-95.5" y="3730" width="575" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-23" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;strokeColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="-112" y="3010" width="307" height="60" as="geometry" />
+          <mxGeometry x="-112" y="3023" width="307" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-25" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;portal&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-119" y="3000" width="79" height="40" as="geometry" />
+          <mxGeometry x="-119" y="3013" width="79" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-26" value="Presto Cluster管理模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-36" y="3016" width="204" height="45" as="geometry" />
+          <mxGeometry x="-36" y="3029" width="204" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-27" value="Presto 部署模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-36" y="3175" width="204" height="45" as="geometry" />
+          <mxGeometry x="-50" y="3175" width="204" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-32" value="K8S Client Tools" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-36" y="3230" width="204" height="45" as="geometry" />
+          <mxGeometry x="-49" y="3230" width="204" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="-112" y="3325" width="312" height="175" as="geometry" />
