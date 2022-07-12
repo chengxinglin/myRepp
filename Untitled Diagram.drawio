@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T09:55:15.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1QQH1hoW4C-vZjwriI2B" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T10:01:33.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="g5G4tdUrqDiQuKP6dFxi" version="18.0.6" type="github">
   <diagram id="bWxWPY4lvkNfk8MPVSgl" name="cxl-demo">
     <mxGraphModel dx="1843" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -694,7 +694,7 @@
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-2" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;inframanager&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-119" y="3140" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VOQfH7wvOU8QGOnTNFBW-22" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;inframanager提供presto-operator和presto-cluster部署删除的能力&lt;/p&gt;&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;1&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-22" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;inframanager提供presto-operator和presto-cluster部署删除的能力&lt;/p&gt;&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;1.presto-operator是presto-cluster集群的控制器监控presto-cluster运行状态&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-95.5" y="3730" width="575" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-23" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;strokeColor=#3333FF;" vertex="1" parent="1">
@@ -742,7 +742,7 @@
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-43" value="SQL 任务执行" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="332" y="3173" width="218" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="VOQfH7wvOU8QGOnTNFBW-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VOQfH7wvOU8QGOnTNFBW-45" target="VOQfH7wvOU8QGOnTNFBW-33">
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;spacing=10;fontSize=21;jumpSize=21;strokeWidth=2;" edge="1" parent="1" source="VOQfH7wvOU8QGOnTNFBW-45" target="VOQfH7wvOU8QGOnTNFBW-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="3251" />
@@ -753,7 +753,7 @@
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-45" value="提交Presto Cluster" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="332" y="3228" width="104" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="VOQfH7wvOU8QGOnTNFBW-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VOQfH7wvOU8QGOnTNFBW-46" target="VOQfH7wvOU8QGOnTNFBW-47">
+        <mxCell id="VOQfH7wvOU8QGOnTNFBW-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="VOQfH7wvOU8QGOnTNFBW-46" target="VOQfH7wvOU8QGOnTNFBW-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VOQfH7wvOU8QGOnTNFBW-46" value="FailedOver提交Thive" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
