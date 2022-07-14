@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T10:52:04.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_QpCuNoGsaNX8J-Zx924" version="18.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-14T09:20:12.555Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="A-CfoxnGv0xvDkke8wiO" version="18.0.6" type="github" pages="3">
   <diagram id="bWxWPY4lvkNfk8MPVSgl" name="cxl-demo">
     <mxGraphModel dx="2662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1394,18 +1394,18 @@
           <mxGeometry x="700" y="4000.340000000001" width="244.5" height="20.03" as="geometry" />
         </mxCell>
         <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-52" value="&lt;p style=&quot;line-height: 150%; font-size: 16px;&quot;&gt;关联项目：myproject1/myproject2&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#6666FF;" vertex="1" parent="1">
-          <mxGeometry x="969.25" y="3945.340000000001" width="244.5" height="20.03" as="geometry" />
+          <mxGeometry x="969.25" y="3935.340000000001" width="244.5" height="20.03" as="geometry" />
         </mxCell>
-        <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-53" value="&lt;p style=&quot;line-height: 150%; font-size: 16px;&quot;&gt;部署资源：大/中/小&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#6666FF;" vertex="1" parent="1">
-          <mxGeometry x="969.25" y="4004.290000000001" width="244.5" height="20.03" as="geometry" />
+        <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-53" value="&lt;p style=&quot;line-height: 150%; font-size: 16px;&quot;&gt;部署资源：大/中/小/自定义&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="969.25" y="3968.2200000000007" width="244.5" height="20.03" as="geometry" />
         </mxCell>
         <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-54" value="高级配置" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="1027.5" y="4054.66" width="98" height="30" as="geometry" />
+          <mxGeometry x="1270" y="4053.0299999999997" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-55" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#6666FF;strokeWidth=2;jumpSize=21;strokeColor=#878787;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1080" y="4084.6600000000003" as="sourcePoint" />
-            <mxPoint x="1080" y="4209.630000000001" as="targetPoint" />
+            <mxPoint x="1322.5" y="4083.03" as="sourcePoint" />
+            <mxPoint x="1322.5" y="4208.000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-56" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeWidth=2;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -1450,8 +1450,8 @@
         <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-77" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;worknum校验只能是数字&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="569.5" y="4161.98" width="240.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-78" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;两个下拉框&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="3935.36" width="91.12" height="40" as="geometry" />
+        <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-78" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;一个下拉框&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="3925.36" width="91.12" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FF0000;strokeWidth=1;strokeColor=#FF0000;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1089.63" y="4221" width="266.25" height="60" as="geometry" />
@@ -1461,15 +1461,6 @@
         </mxCell>
         <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-85" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;校验仅允许在0-1范围内的double类型&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1357" y="4297" width="133" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-86" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;大中小分别对应具体&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="3994.31" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-87" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;coordinator/worker cpu&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="4020.3700000000003" width="164.44" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-88" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;coordinator/worker memory&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="4044.32" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aoj6ZU0d8oUj1B0rPr5Z-89" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;详情展示里面的文本均是不可编辑状态&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="187.5" y="4950" width="328" height="40" as="geometry" />
@@ -1506,6 +1497,30 @@
         </mxCell>
         <mxCell id="yhnm6hgwvkzis3lzWBeA-3" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;name和namesapce&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="553.75" y="3964.29" width="156.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yhnm6hgwvkzis3lzWBeA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="4004.29" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yhnm6hgwvkzis3lzWBeA-5" value="&lt;p style=&quot;line-height: 150%; font-size: 16px;&quot;&gt;coordinator-cpu：4&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="972.1300000000001" y="4005.800000000001" width="248.5" height="20.03" as="geometry" />
+        </mxCell>
+        <mxCell id="yhnm6hgwvkzis3lzWBeA-6" value="&lt;p style=&quot;line-height: 150%; font-size: 16px;&quot;&gt;coordinator-memory：8 GB&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="972.1300000000001" y="4031.800000000001" width="248.5" height="20.03" as="geometry" />
+        </mxCell>
+        <mxCell id="yhnm6hgwvkzis3lzWBeA-7" value="&lt;p style=&quot;line-height: 150%; font-size: 16px;&quot;&gt;worker-cpu：4&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="973.25" y="4056.800000000001" width="248.5" height="20.03" as="geometry" />
+        </mxCell>
+        <mxCell id="yhnm6hgwvkzis3lzWBeA-8" value="&lt;p style=&quot;line-height: 150%; font-size: 16px;&quot;&gt;worker-memory：16 GB&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="971.5" y="4083.7800000000007" width="248.5" height="20.03" as="geometry" />
+        </mxCell>
+        <mxCell id="yhnm6hgwvkzis3lzWBeA-14" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;单选大中小显示具体值不允许编辑，选择自定义后数值可以编辑&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="938.5" y="4131.5" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yhnm6hgwvkzis3lzWBeA-15" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;CPU和Memort校验均是数值，传入后台也是数值类型；内存单位GB不可编辑&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="4119" width="160" height="65.01" as="geometry" />
+        </mxCell>
+        <mxCell id="yhnm6hgwvkzis3lzWBeA-16" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;单选按钮选择之后在显示下面具体的cpu和memory信息&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1238" y="3970.24" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
