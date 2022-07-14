@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T09:53:34.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qZUgwYOeauLyBZziOwGA" version="18.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-14T09:57:50.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4E7JoOgHm5Fg_wEyuJjS" version="18.0.6" type="github" pages="3">
   <diagram id="bWxWPY4lvkNfk8MPVSgl" name="cxl-demo">
     <mxGraphModel dx="2662" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1263,10 +1263,10 @@
           <mxGeometry x="924.49" y="3665.7800000000007" width="248.5" height="20.03" as="geometry" />
         </mxCell>
         <mxCell id="cC6kEohLrBS28o_2FcBk-37" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;单选大中小显示具体值不允许编辑，选择自定义后数值可以编辑&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="891.49" y="3713.5" width="160" height="40" as="geometry" />
+          <mxGeometry x="884.49" y="3723.5" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cC6kEohLrBS28o_2FcBk-38" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;CPU和Memort校验均是数值，传入后台也是数值类型；内存单位GB不可编辑&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1082.9899999999998" y="3701" width="160" height="65.01" as="geometry" />
+          <mxGeometry x="1079.99" y="3710" width="177.01" height="65.01" as="geometry" />
         </mxCell>
         <mxCell id="cC6kEohLrBS28o_2FcBk-39" value="&lt;p style=&quot;line-height: 150% ; font-size: 15px&quot;&gt;单选按钮选择之后在显示下面具体的cpu和memory信息&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1202.9899999999998" y="3552.24" width="200" height="40" as="geometry" />
